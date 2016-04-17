@@ -1,0 +1,22 @@
+{
+    "name": "theme-vscode",
+    "displayName": "VS Code Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "anweber",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VS Code",
+                "uiTheme": "vs",
+                "path": "./themes/vscode.tmTheme"
+            }
+        ]
+    }
+}
