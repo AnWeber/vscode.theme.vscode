@@ -363,7 +363,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#f8f8f0</string>
+                <string>#B60000</string>
             </dict>
         </dict>
         <dict>
@@ -376,7 +376,7 @@
                 <key>background</key>
                 <string>#00a8c6</string>
                 <key>foreground</key>
-                <string>#f8f8f0</string>
+                <string>#B60000</string>
             </dict>
         </dict>
         <dict>
